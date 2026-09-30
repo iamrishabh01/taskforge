@@ -11,3 +11,5 @@ Backend	Node + Express (TypeScript), layered: routes, controllers, services, rep
 Frontend	React + TypeScript, React Router, server-state library for API data	Optimistic updates, virtualization, code splitting
 Database	PostgreSQL, migrations, seed data	Indexing and query tuning with EXPLAIN
 Ops	Git workflow from day one	Docker, GitHub Actions CI/CD, cloud deployment (I'll justify the platform choice then)
+## Tech Stack
+Will do it in a while.
