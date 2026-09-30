@@ -1,4 +1,4 @@
-Project proposal: TaskForge (condensed)
+Project proposal: TaskForge 
 
 Problem: small and mid-size teams juggle work across chat, spreadsheets, and email, with no clear ownership, permissions, or reporting.
 
